@@ -41,6 +41,7 @@ karma~ 2.0 research ideas
 - separate play/record heads? (simultaneous play and record?)
 - define multiple loop points (play from 0.25 -> 0.5 and then 0.75 -> 0.85)
 - define amount of loops (for global loop or individual sub-slices)
+- threshold-based recording (sending `record` only puts `karma~` into an "armed" state, it won't start recording until a threshold is exceeded)
 
 # Research
 - look up undo layers in sooperlooper line6
